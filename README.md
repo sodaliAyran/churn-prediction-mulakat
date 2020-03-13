@@ -1,6 +1,6 @@
-# apps-mulakat
+# data-science-mulakat
 
-## Data Science Project for APPS Data Science Interview
+## Data Science Project for Data Science Interview
 
 I finished this project in *one day*.
 
