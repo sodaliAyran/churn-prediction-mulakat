@@ -1,6 +1,8 @@
-# data-science-mulakat
+# churn-prediction-mulakat
 
-## Data Science Project for Data Science Interview
+## Churn Prediction Project for Data Science Interview
+
+# WARNING! THIS PROJECT FAILED ME IN MY INTERVIEW USE WITH CAUTION!
 
 I finished this project in *one day*.
 
